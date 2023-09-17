@@ -1,0 +1,18 @@
+---
+object: set
+id: 73406582-d0f6-4c0b-a23d-465485e5a05c
+code: tdgm
+name: Dragon's Maze Tokens
+uri: https://api.scryfall.com/sets/73406582-d0f6-4c0b-a23d-465485e5a05c
+scryfall_uri: https://scryfall.com/sets/tdgm
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atdgm&unique=prints
+released_at: '2013-05-03'
+set_type: token
+card_count: 1
+parent_set_code: dgm
+digital: false
+nonfoil_only: true
+foil_only: false
+block_code: rtr
+block: Return to Ravnica
+icon_svg_uri: https://svgs.scryfall.io/sets/dgm.svg?1694404800
